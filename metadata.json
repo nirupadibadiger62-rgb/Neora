@@ -1,0 +1,9 @@
+{
+  "name": "Neora AI",
+  "description": "A next-generation conversational AI platform featuring real-time voice interaction, multimodal analysis, and grounded intelligence using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
